@@ -1,1 +1,2 @@
 1st lecture of git
+making changes in file
